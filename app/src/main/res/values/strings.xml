@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day2ActivityLifeCycle</string>
+    <string name="hello_text">Hello World!</string>
+    <string name="toast_text">french toast</string>
+</resources>
